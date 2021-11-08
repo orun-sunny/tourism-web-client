@@ -1,0 +1,15 @@
+.footerSection{
+    background-color: var(--main);
+    padding: 3rem 0;
+    color: var(--white);
+    margin-top: 2rem;
+}
+.footerRecentPosts a{
+    color: var(--third);
+    font-size: 12px;
+    display:block;
+    margin: 1rem 0;
+}
+.footerRecentPosts a:hover{
+    color: var(--white);
+}
