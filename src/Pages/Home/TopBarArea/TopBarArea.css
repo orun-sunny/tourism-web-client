@@ -1,20 +1,20 @@
 .topbar-area {
-    padding: 8px;
-    background: var(--main);
-    color: var(--white);
-    font-size: 12px;
+  padding: 8px;
+  background: var(--second);
+  color: var(--white);
+  font-size: 12px;
 }
-.topbar-container{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.topbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 .topbar-social i {
-    margin-right: 15px;
+  margin-right: 15px;
 }
-.topbar-phone-email{
-    display: flex;
+.topbar-phone-email {
+  display: flex;
 }
-.topbar-phone-email i{
-    margin-left: 15px;
+.topbar-phone-email i {
+  margin-left: 15px;
 }
